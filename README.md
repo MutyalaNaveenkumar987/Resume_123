@@ -1,6 +1,6 @@
 # Naveen kumar Mutyala
 =============================
-### Personal Details
+###Personal Details
    - Email: **mutyalanaveenkumar2000@gmail.com**
    - phone: **9505930877**
    - DOB: **29-10-2000**
@@ -20,5 +20,13 @@
    - SSC
      - **V R High school**
      - **Old Guntur,Guntur,Andhrapradesh**
-   ###Technical Skills
+   ###Technical Skills 
+   - C
+   - Python
+   - Java
+   - Dbms
+   - Git & Github
+   ###Certifications
+   - Completed python for everybody in  ***coursera***
+   - Certified by ***Full Stack*** in udacity
    
