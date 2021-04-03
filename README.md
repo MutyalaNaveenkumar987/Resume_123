@@ -11,7 +11,7 @@
      - **RVR & JC College of Engineering**
      - **CSE**
      - **2019-2023**
-     - **Guntur,Andharaprad
+     - **Guntur,Andharapradesh**
    - Intermediate
       - **Sri Chaitanya jr College**
       - **M.P.C**
