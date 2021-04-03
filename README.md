@@ -26,7 +26,8 @@
    - Java
    - Dbms
    - Git & Github
+   
    ###Certifications
    - Completed python for everybody in  ***coursera***
-   - Certified by ***Full Stack*** in udacity
+   - Certified by ***Full Stack*** in ***udacity***
    
