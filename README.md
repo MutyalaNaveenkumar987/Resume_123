@@ -1,12 +1,12 @@
 # Naveen kumar Mutyala
 =============================
-###Personal Details
+### Personal Details
    - Email: **mutyalanaveenkumar2000@gmail.com**
    - phone: **9505930877**
    - DOB: **29-10-2000**
    - Address: **old guntur ,Guntur**
    
-###Educational details
+### Educational details
    - B.tech
      - **RVR & JC College of Engineering**
      - **CSE**
@@ -20,14 +20,14 @@
    - SSC
      - **V R High school**
      - **Old Guntur,Guntur,Andhrapradesh**
-   ###Technical Skills 
+   ### Technical Skills 
    - C
    - Python
    - Java
    - Dbms
    - Git & Github
    
-   ###Certifications
+   ### Certifications
    - Completed python for everybody in  ***coursera***
    - Certified by ***Full Stack*** in ***udacity***
    
